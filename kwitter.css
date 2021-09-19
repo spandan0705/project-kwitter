@@ -1,0 +1,15 @@
+#login_button{
+    padding:7px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+#user_name{
+    max-width: 200px;
+    min-width: 200px;
+}
+
+#logo{
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
